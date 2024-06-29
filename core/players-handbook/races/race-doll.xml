@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Doll</name>
+		<author url="https://drive.google.com/file/d/1c3kQXboGLeOaK5K9bk8FjNtrGO9H3-iS/view">A 5ee Pllaayer yer RRaacece byby DM Tuzuz</author>
+		<update version="0.2.8">
+			<file name="race-doll.xml" url="https://raw.githubusercontent.com/oddanna/elements/master/core/players-handbook/races/race-doll.xml" />
+		</update>
+	</info>
+
+	<element name="Doll" type="Race" source="Player’s Handbook" id="ID_SRD_RACE_DWARF">
+		<description>
+			<p class="flavor">The idea that the gods fashioned their chosen people after themselves appears multiple times in mythology and other ancient literature. An expression of an as-yet-unfathomable urge for all creators to make similacrums of their own for them to control. Following in the footsteps of their creators, at one point or another, mortal races would begin to create dolls in their own image.</p>
+        <p class="indent">Diverse dolls made of various materials have been discovered all over the world since time immemorial. They have served as crude toys, works of elaborate art, or occult implements in rituals. The people of the world have a peculiar connection with these replicas, an affinity that, in some fantastical instances, allowed them to transcend their status as mere objects and imbue them with life.</p>
+        <p class="indent">Living dolls are not a people in their own right; rather, they are unfortunate individuals that are thrown into existence, often without knowing how they came to be. The majority of them are innocent and unaware of the norms and practices of their makers’ world, as they are compelled to navigate it. Most dolls have to discover how to fit in with society at large or find their own purpose, which is usually tied to their origins. During this phase of exploration, they are malleable and prone to the influence of others. The inherent nature of dolls makes them look to their makers for direction, and they may blindly accept orders.</p>
+        <p class="indent"> The world, filled with wonders as it is, is not short of explanations for how a mere doll might animate. But these living dolls differ greatly from automatons or golems. Indeed, the true origin of their animation can be traced back to the mortals who created and utilized them. Their unique, personal, if not intimate, bond between an inanimate object and a living person is the true origin of the doll’s awakening. This mysterious circumstance, which caused a doll to jolt into true life, is called a spark.</p>
+      
+      <h4>Sparks</h4>
+			<p>A spark is the unique animus that animates a living doll. Most commonly, a spark is provided by another living creature that has created a unique bond with a doll, though otherworldly forces have also proven to provide a doll with their spark as well. The spark is a reflection of the doll’s purpose, and no two sparks are identical to one another, as a doll’s origin is a unique tale in and of itself.</p>
+        <p class="indent"><strong><em>Desire.</em></strong> People desire companionship in the many formsthat it can take. A doll with this spark was created to fulfill another’s need for connection. Before your awakening, you might have been someone’s confidant, a playmate, or a supplier of intimacy. Dolls with this spark feel drawn to isolated individuals and seek to sooth their lonesomeness.</p>
+        <p class="indent"><strong><em>Loss.</em></strong> Loss is an overwhelming emotion, and those left behind may seek to fill the fresh void in their lives to find solace. A doll born from this spark may have been a stand-in for the one lost, or perhaps a facsimile of the departed. These dolls are sensitive to another creature’s emotional turmoil and seek to bring comfort to those with aching hearts.</p>
+        <p class="indent"><strong><em>Passion.</em></strong> Artistic expression, the burning will for creation, is a driving emotion for many creative souls. Dolls infused with the spark of passion were under the prolonged focus of a creative spirit that sought to give birth to an extraordinary creation. Along this path, the bond between artist and creation imbued a doll with life, who inherited their creator’s passion. These dolls are distinguished by their vibrant disposition, which is seldom found among their kind.</p>
+        <p class="indent"><strong><em>Service.</em></strong> In rare circumstances, a doll may have been animated previously before receiving its spark. These dolls were created for singular purposes and obedience, as all machines are. But through years of service, a unique relationship was built between master and machine, which allowed the automaton to transcend. Dolls with this spark are dedicated and loyal creatures who seek to fulfill their masters bidding. To be without a master and bereft of purpose would be this doll’s greatest plight.</p>
+        <p class="indent"><strong><em>Astral.</em></strong> Greater powers commonly seek to meddle in the affairs of mortals. Due to the whims of a higher creature, dolls with this spark were given life. These dolls might receive a divine purpose at the moment of awakening or seek omens to divine their true mission in this world. Though, with all the powers at the hands of these outer beings, why choose a humble doll to be their instrument?</p>
+        <p class="indent"><strong><em>Vessel.</em></strong> Dolls bearing a true spark develop souls of their own, proving that these constructs are valid hosts for a person’s essence. In some obscure circumstances, a mortal soul can find itself occupying a doll as a new body, which can prove itself to be either a cursed existence or a second chance at life.</p>
+      
+			<h4>DOLL TRAITS</h4>
+			<p>As a Doll, you possess innate traits and capabilities.</p>			
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Increase one ability score by 2 and increase a different one by 1, or increase three different ability scores by 1.</p>
+			<p class="indent"><strong><em>Size.</em></strong> Your size is Medium or Small.</p>
+			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 30 feet, or 25 feet if you choose your size to be Small.</p>
+			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common, and another language of your choice.</p>
+			<p class="indent"><strong><em>Construct Nature.</em></strong> You are a construct and have the following benefits:
+        • You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+        • You don’t need to eat, drink, or breathe.
+        • You are immune to disease.
+        • You don’t need to sleep, and magic can’t put you to sleep. You take a long rest, you still need to remain inactive for 6 hours in which you are motionless and indiscernible from an inanimate doll, but can see and hear as normal.</p>
+			<p class="indent"><strong><em>Mutability Resistence.</em></strong> You have advantage on saving throws against any effect or spell that would alter your form against your will. Any effect or spell except for the Wish spell that changes your form into that of another creature cannot change your creature type. For example if the Polymorph spell changes you into a Rat, you would remain a construct and retain your <strong><em>Construct Nature</em></strong> trait.</p>
+			<p class="indent"><strong><em>Spark.</em></strong> When you choose this race, select one of the following sparks which animates you: Desire, Loss, Passion, Service, Astra, or Vessel. 
+        When you choose your spark, you learn one cantrip. Once you reach level 3 you learn and can cast a 1st level spell once per day. Once you reach 5th level, you also learn and can cast a 2nd level spell once. You must finish a long rest to cast these spells again with this trait. When you select your spark you choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells.
+        Which cantrip and spells you learn are determined by your spark as shown by to the table below.</p>
+			<p class="indent"><strong><em>Subraces.</em></strong> Choose one of the following subraces: Porcelain, Marionette, Ragdoll, Clockwork.</p>
+
+      <h4>Porcelan</h4>
+      <p>Renowned for its purity, durability, and tolerance to high temperatures, porcelain is a popular type of pottery. This material’s durability and aesthetic appeal made it ideal for dolls, which often served as ornaments before receiving their spark. Consequently, porcelain dolls radiate an aura of nobility and grace.
+      Their white bodies make for ideal canvases, which may be decorated with extravagant patterns or a life-like painted imitation of the human form. Thus, among the dolls, a porcelain doll may be the most likely to pass as a real person if enough artistry went into its delicate face painting.</p>			
+			<p class="indent"><strong><em>Purity.</em></strong> You have advantage on all saving throws that you make at the end of your turn to end conditions and magical effects that are afflicting you.</p>
+      <p class="indent"><strong><em>Charming.</em></strong> You are proficient in Performance or Persuasion.</p>
+      <h4>Marionette</h4>
+      <p>Marionettes are sturdy creations made from the same trusted wood that many people around the world use to build their tools and homes. They are commonly used for demanding purposes such as performance and play. 
+        Marionettes not only retain their robust characteristics after receiving their spark, but they also reveal the hidden vitality of their wodden bodies. Trees carry life, which is passed down to the Marionettes, giving them a supernatural healing factor that allows their splintered bodies to heal if they are given time to rest.</p>			
+			<p class="indent"><strong><em>Vitality.</em></strong> Whenever you finish a Short Rest, you regain an amount of hit points equal to your character level + your Constitution modifier.</p>
+      <p class="indent"><strong><em>Rustic.</em></strong> You are proficient in Animal Handling or Athletics.</p>
+      <h4>Ragdoll</h4>
+      <p>Cloth is an almost universally found material in the civilized world, where it is used for clothing, bedding, and similar comforts. While designs and patterns aim for as little waste as possible, scraps of cloth are unavoidable. The creation of dolls from such scraps has proven to be a popular practice. While true artistic expression can be found in the creation of ragdolls, more often than not, they appear less than glamorous.
+        Sparks received by ragdolls commonly originate from sentimental origins and might have close bonds with those who imbue them with life. Lone ragdolls are often overlooked or disregarded due to their commonly unaesthetic appearances, which might make them particularly vulnerable to corrupting influences.</p>			
+			<p class="indent"><strong><em>Soft Body.</em></strong> You can squeeze through openings or fit into compartments large enough for a creature one Size smaller than you own. Additionally, whenever you use an action to take the dodge action, you gain resistance to bludgeoning damage until the beginning of your next turn or until you are incapacitated.</p>
+      <p class="indent"><strong><em>Nimble.</em></strong> You are proficient in Acrobatics or Stealth.</p>
+      <h4>Clockwork</h4>
+      <p>For the untrained eye, clockwork technology may appear indistinguishable from magic. A single winding mechanism can power an entire complex machine, performing precision tasks via a complex arrangement of gears. It is not surprising that, over time, artisans attempted to create hu-
+manoid replicas using clockwork technology. The end result is a machine that appears infinitely complex and powers mind-boggling automatons concealed beneath its carapace.
+        Clockwork dolls are often animated before receiving their sparks after years of service. Clockwork dolls, unlike other awakened dolls, do not solely rely on their spark to be able to move. These constructs can, in fact, temporarily push themselves past their limits by overworking their mechanical components. Afterward, their winding mechanisms will force them into temporary inactivity, necessitating rewinding.
+        These awakened clockwork creatures’ thoughts appear precise and complex, mirroring the machinery that powers them. Their sparks, despite being born of very human emotions, are constrained by the intricate bodies of these dolls. As a result, clockwork dolls frequently exhibit machine-like characteristics, appearing emotionally dis-
+tant and cold. Fortunately, their analytical minds make clockwork dolls extremely curious creatures, frequently leading them to investigate the realms of emotions and humanity. With enough effort and drive, a clockwork doll can express the full range of human emotions.</p>			
+			<p class="indent"><strong><em>Overclock.</em></strong> You can use a bonus action to gain the use of an additional action until the end of your turn. You can use this additional action only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action, or to cast a Cantrip.
+        When you use this trait and your turn ends, you can’t use actions, reactions, or this trait until the end of your next turn.</p>
+      <p class="indent"><strong><em>Precise.</em></strong> You are proficient in Perception or Sleight of Hands.</p>   
+		</description>
+    
+		<sheet display="false" />
+		<rules>
+			<stat name="constitution" value="2" />
+			<stat name="innate speed" value="25" bonus="base" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<grant type="Language" id="ID_LANGUAGE_DWARVISH" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_RESILIENCE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_COMBAT_TRAINING" requirements="!ID_WOTC_PSK_SUBRACE_KALADESH_DWARF" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_TOOL_PROFICIENCY" requirements="!ID_WOTC_PSK_SUBRACE_KALADESH_DWARF" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_STONECUNNING" requirements="!ID_WOTC_PSK_SUBRACE_KALADESH_DWARF" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_SUBRACE" />
+		</rules>
+	</element>
+	<element name="Dwarven Resilience" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_RESILIENCE">
+		<description>
+			<p>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>
+		</description>
+		<sheet>
+			<description>You have advantage on saving throws against poison, and you have resistance against poison damage.</description>
+		</sheet>
+		<rules>
+			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+		</rules>
+	</element>
+	<element name="Dwarven Combat Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_COMBAT_TRAINING">
+		<description>
+			<p>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</p>
+		</description>
+		<sheet display="false">
+			<description>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_BATTLEAXE" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_HANDAXE" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LIGHT_HAMMER" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WARHAMMER" />
+		</rules>
+	</element>
+	<element name="Tool Proficiency" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_TOOL_PROFICIENCY">
+		<description>
+			<p>You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.</p>
+		</description>
+		<sheet display="false"/>
+		<rules>
+			<select type="Proficiency" name="Dwarven Tool Proficiency" supports="ID_PROFICIENCY_TOOL_PROFICIENCY_SMITHS_TOOLS|ID_PROFICIENCY_TOOL_PROFICIENCY_BREWERS_SUPPLIES|ID_PROFICIENCY_TOOL_PROFICIENCY_MASONS_TOOLS" />
+		</rules>
+	</element>
+	<element name="Stonecunning" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_STONECUNNING">
+		<description>
+			<p>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>
+		</description>
+		<sheet>
+			<description>A +{{stonecunning:check}} on History checks related to origin of stonework.</description>
+		</sheet>
+		<rules>
+			<stat name="stonecunning:check" value="intelligence:modifier" />
+			<stat name="stonecunning:check" value="history:misc" />
+			<stat name="stonecunning:check" value="proficiency" />
+			<stat name="stonecunning:check" value="proficiency" />
+		</rules>
+	</element>
+	<element name="Dwarven Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_SUBRACE">
+		<description>
+			<p>Two main subraces of dwarves populate the worlds of D&amp;D: hill dwarves and mountain dwarves. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false"/>
+		<rules>
+			<select type="Sub Race" name="Dwarven Subrace" supports="Dwarf" />
+		</rules>
+	</element>
+
+	<element name="Hill Dwarf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_HILL_DWARF">
+		<supports>Dwarf</supports>
+		<description>
+			<p>As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerûn in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Wisdom score increases by 1.</p>
+			<p class="indent"><strong><em>Dwarven Toughness.</em></strong> Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>
+		</description>
+		<sheet display="false"/>
+		<setters>
+			<set name="height" modifier="2d4">3'8"</set>
+			<set name="weight" modifier="2d6">115 lb.</set>
+		</setters>
+		<rules>
+			<stat name="wisdom" value="1" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_TOUGHNESS" />
+		</rules>
+	</element>
+	<element name="Dwarven Toughness" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_TOUGHNESS">
+		<description>
+			<p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>
+		</description>
+		<sheet display="false">
+			<description>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</description>
+		</sheet>
+		<rules>
+			<stat name="hp" value="level" />
+		</rules>
+	</element>
+
+	<element name="Mountain Dwarf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_MOUNTAIN_DWARF">
+		<supports>Dwarf</supports>
+		<description>
+			<p>As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You’re probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerûn, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Strength score increases by 2.</p>
+			<p class="indent"><strong><em>Dwarven Armor Training.</em></strong> You have proficiency with light and medium armor.</p>
+		</description>
+		<sheet display="false"/>
+		<setters>
+			<set name="height" modifier="2d4">4'</set>
+			<set name="weight" modifier="2d6">130 lb.</set>
+		</setters>
+		<rules>
+			<stat name="strength" value="2" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_ARMOR_TRAINING" />
+		</rules>
+	</element>
+	<element name="Dwarven Armor Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_ARMOR_TRAINING">
+		<description>
+			<p>You have proficiency with light and medium armor.</p>
+		</description>
+		<sheet display="false">
+			<description>You have proficiency with light and medium armor.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" />
+		</rules>
+	</element>
+</elements>
